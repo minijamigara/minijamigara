@@ -20,6 +20,43 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
     <img src="https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+---
+
+### Technologies & Tools
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40px" hight="40px">
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40px" hight="40px">
+  </div>
+</div>
+
+
 <!--
 **minijamigara/minijamigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
