@@ -3,6 +3,7 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" hight="380px">
 
+### Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/minijamigara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -52,7 +53,8 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px" hight="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px" hight="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" hight="40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40px" hight="40px">
   </div>
 </div>
 
