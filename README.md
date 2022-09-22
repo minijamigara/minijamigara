@@ -46,7 +46,6 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40px" hight="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40px" hight="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="40px" hight="40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40px" hight="40px">
   </div>
   <div class="column" style="background-color:#bbb;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40px" hight="40px">
@@ -55,6 +54,7 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" hight="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40px" hight="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40px" hight="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40px" hight="40px">
   </div>
 </div>
 
