@@ -1,9 +1,17 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px">
-I am Minija Migara, Software application developer, from Sri Lanka who is passionate about technologies and innovations
-
+<div align="center">
+      <h1>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"> I'm Minija Migara</h1> 
+</div>
+<div>
+I am a Software application developer,from Sri Lanka. I’ve always been a  </br>
+great problem solver, an independent introvert, and a technophile obsessed with the latest technologies.</br>
+I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Xamarin,</br> 
+Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my repertoire.
+</div>
+<div align=right>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" hight="380px">
+</div>
 
-### Connect with me
+### 🔗 Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/minijamigara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,7 +32,7 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
 
 ---
 
-### Technologies & Tools
+### 🧰 Technologies & Tools
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40px" hight="40px">
@@ -58,7 +66,29 @@ I am Minija Migara, Software application developer, from Sri Lanka who is passio
   </div>
 </div>
 
+### 🌸 My products
 
+---
+### 📹 Latest YouTube videos
+
+<!-- Youtube-video-List:START-->
+
+<!-- Youtube-video-List:END-->
+
+↗️[... More YouTube Videos](https://www.youtube.com/c/Intellipaat)
+
+---
+### 📕 Latest Blogs
+
+
+<!-- Blogs-List:START-->
+
+<!-- Blogs-List:END-->
+
+↗️[... More Blogs](https://www.youtube.com/c/Intellipaat)
+
+---
+### ✨ My Bussiness Profiles
 <!--
 **minijamigara/minijamigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
