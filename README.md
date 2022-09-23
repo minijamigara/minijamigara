@@ -7,6 +7,7 @@ great problem solver, an independent introvert, and a technophile obsessed with 
 I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Xamarin,</br> 
 Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my repertoire.
 </div>
+![](./imageAlign.svg)
 <div align=right>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" hight="380px">
 </div>
