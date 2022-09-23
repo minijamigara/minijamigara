@@ -8,9 +8,6 @@ I’m familiar with a variety of programming languages, including JavaScript, HT
 Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my repertoire.
 </div>
 <img src="./imageAlign.svg">
-<div id="gif" align=right>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" hight="380px">
-</div>
 
 ### 🔗 Connect with me
 <div id="badges" style="padding-Bottom: -500px;">
