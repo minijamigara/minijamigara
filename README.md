@@ -9,7 +9,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 </div>
 ![Alt text](./imageAlign.svg)
 <img src="./imageAlign.svg">
-<div align=right>
+<div id="gif" align=right>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px" hight="380px">
 </div>
 
