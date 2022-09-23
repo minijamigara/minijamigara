@@ -12,7 +12,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 </div>
 
 ### 🔗 Connect with me
-<div id="badges">
+<div id="badges" style="padding-Bottom: -500px;">
   <a href="https://www.linkedin.com/in/minijamigara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -67,7 +67,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 </div>
 
 ### 🌸 My products
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <th>Hybrid Battery Health Diagnostic System</th>
     <th>Automated Gardning System</th>
