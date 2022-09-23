@@ -107,9 +107,9 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 ---
 ### ✨ My Bussiness Profiles
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minijamigara&show_icons=true&theme=material-palenight&card_width=100px)
+<p><img src="https://github-readme-stats.vercel.app/api?username=minijamigara&amp;show_icons=true&amp;theme=material-palenight&amp;card_width=100px" alt="Anurag&#39;s GitHub stats"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minijamigara&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minijamigara&amp;layout=compact&amp;theme=material-palenight" alt="Top Langs"></a></p>
 
 
 <!--
