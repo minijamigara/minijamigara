@@ -79,9 +79,9 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
     <th><img src="Images/VTC.jpg" width="400px" hight="30px"></th>
   </tr>
   <tr>
-    <th><p><a href="https://www.youtube.com/c/Intellipaat">↗️... More Info</a></p></th>
-    <th><p><a href="https://www.youtube.com/c/Intellipaat">↗️... More Info</a></p></td>
-    <th><p><a href="https://www.facebook.com/commerce/products/garden-automation/3575602082463312/?   ref=timeline&referral_code=mini_shop_profile_featured_shop_card](https://www.facebook.com/commerce/products/3575602082463312/)">↗️... More Info</a></p></td>
+    <th><p><a href="">↗️... More Info</a></p></th>
+    <th><p><a href="https://www.facebook.com/commerce/products/3575602082463312/">↗️... More Info</a></p></td>
+    <th><p><a href="https://www.facebook.com/commerce/products/4817797844958353/">↗️... More Info</a></p></td>
   </tr>
 </table>
 
