@@ -1,5 +1,5 @@
 <div align="center">
-      <h1>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"> I'm Minija Migara</h1> 
+      <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"> I'm Minija Migara</h1> 
 </div>
 <div>
 I am a Software application developer,from Sri Lanka. I’ve always been a  </br>
@@ -89,6 +89,12 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 
 ---
 ### ✨ My Bussiness Profiles
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minijamigara&show_icons=true&theme=material-palenight&card_width=100px)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minijamigara&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **minijamigara/minijamigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
