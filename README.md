@@ -74,9 +74,14 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
     <th>Smart Timer Controller</th>
   </tr>
   <tr>
-    <th><img src="Images/HBHDS.jpeg" width="400px" hight="30px"></td>
-    <th>Maria Anders</td>
-    <th>Germany</td>
+    <th><img src="Images/HBHDS.jpeg" width="400px" hight="30px"></th>
+    <th><img src="Images/SWS.jpg" width="400px" hight="30px"></th>
+    <th><img src="Images/VTC.jpg" width="400px" hight="30px"></th>
+  </tr>
+  <tr>
+    <th><p><a href="https://www.youtube.com/c/Intellipaat">↗️... More Info</a></p></th>
+    <th><p><a href="https://www.youtube.com/c/Intellipaat">↗️... More Info</a></p></td>
+    <th><p><a href="https://www.youtube.com/c/Intellipaat](https://www.facebook.com/commerce/products/garden-automation/3575602082463312/?   ref=timeline&referral_code=mini_shop_profile_featured_shop_card">↗️... More Info</a></p></td>
   </tr>
 </table>
 
