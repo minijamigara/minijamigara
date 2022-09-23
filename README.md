@@ -7,7 +7,7 @@ great problem solver, an independent introvert, and a technophile obsessed with 
 I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Xamarin,</br> 
 Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my repertoire.
 </div>
-<img src="imageAlign.svg" width="800" height="400">
+<img src="imageAlign.svg">
 
 ### 🔗 Connect with me
 <div id="badges" style="padding-Bottom: -500px;">
