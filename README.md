@@ -67,6 +67,18 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 </div>
 
 ### 🌸 My products
+<table>
+  <tr>
+    <th>Hybrid Battery Health Diagnostic System</th>
+    <th>Automated Gardning System</th>
+    <th>Smart Timer Controller</th>
+  </tr>
+  <tr>
+    <th><img src="Images/HBHDS.jpeg" width="400px" hight="30px"></td>
+    <th>Maria Anders</td>
+    <th>Germany</td>
+  </tr>
+</table>
 
 ---
 ### 📹 Latest YouTube videos
