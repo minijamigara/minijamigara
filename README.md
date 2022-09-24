@@ -8,9 +8,14 @@ I’m familiar with a variety of programming languages, including JavaScript, HT
 Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my repertoire.
 </div>
 
-<div align="center">
+<!--<div align="center">
 	<a href="https://github.com/yanglr">
 		<img style="position: absolute; top: 76px; right: 0; border: 0"src="https://s4.aconvert.com/convert/p3r68-cdx67/ard8a-a63km.svg?sanitize=true" width="600" height="300">
+	</a>
+</div>-->
+<div align="center">
+	<a href="https://github.com/yanglr">
+		<img style="position: absolute; top: 76px; right: 0; border: 0"src="mainImage.gif?sanitize=true" width="300" height="200">
 	</a>
 </div>
 
