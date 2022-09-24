@@ -13,7 +13,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 		<img style="position: absolute; top: 76px; right: 0; border: 0"src="https://s4.aconvert.com/convert/p3r68-cdx67/ard8a-a63km.svg?sanitize=true" width="600" height="300">
 	</a>
 </div>-->
-<div align="center">
+<div align="center";>
 	<a href="https://github.com/yanglr">
 		<img style="position: absolute; top: 76px; right: 0; border: 0"src="mainImage.gif?sanitize=true" width="300" height="200">
 	</a>
@@ -114,7 +114,31 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 
 ---
 ### ✨ My Bussiness Profiles
-<h4>Arduino Demonstration</h4>
+<h4>Arduino Demonstration</h4> 
+<div style="left: 100px">
+	<a href="https://github.com/yanglr">
+		<img style="position: absolute; top: 76px; right: 0; border: 0"src="Images/COVER PIC 2.png?sanitize=true" width="200" height="80">
+	</a>
+</div>
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+<a href="your-facebook-URL">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="20px" hight="20px">
+</a>
+<a href="your-gmail-URL">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width="20px" hight="20px">
+</a>
+<a href="your-instagram-URL">	  
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="20px" hight="20px">
+</a>
+<a href="your-linkeddin-URL">	  
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="20px" hight="20px">
+</a>
+<a href="your-web-URL">	  
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Edge.png" width="20px" hight="20px">
+</a>
+  </div>
+</div>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=minijamigara&amp;show_icons=true&amp;theme=material-palenight&amp;card_width=100px" alt="Anurag&#39;s GitHub stats"></p>
 
