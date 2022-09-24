@@ -7,10 +7,10 @@ great problem solver, an independent introvert, and a technophile obsessed with 
 I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Xamarin,</br> 
 Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my repertoire.
 </div>
-<img src="imageAlign.svg">
+
 <div align="center">
 	<a href="https://github.com/yanglr">
-		<img style="position: absolute; top: 76px; right: 0; border: 0" alt="Fork me on GitHub"src="mainGif.svg?sanitize=true" width="800" height="400" alt="Click to see the source">
+		<img style="position: absolute; top: 76px; right: 0; border: 0"src="https://s4.aconvert.com/convert/p3r68-cdx67/ard8a-a63km.svg?sanitize=true" width="600" height="300">
 	</a>
 </div>
 
@@ -109,6 +109,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 
 ---
 ### ✨ My Bussiness Profiles
+<h4>Arduino Demonstration</h4>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=minijamigara&amp;show_icons=true&amp;theme=material-palenight&amp;card_width=100px" alt="Anurag&#39;s GitHub stats"></p>
 
