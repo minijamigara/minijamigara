@@ -74,7 +74,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
   </div>
 </div>
 
-### 🌸 My products
+### 🌸 My Products
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <th>Hybrid Battery Health Diagnostic System</th>
@@ -94,7 +94,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 </table>
 
 ---
-### 📹 Latest YouTube videos
+### 📹 Latest YouTube Videos
 
 <!-- Youtube-video-List:START-->
 
@@ -114,7 +114,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 
 ---
 ### ✨ My Bussiness Profiles
-<h4>Arduino Demonstration</h4> 
+<h4>Co-founder of Arduino Demonstration</h4> 
 <div style="left: 100px">
 	<a href="https://github.com/yanglr">
 		<img style="position: absolute; top: 76px; right: 0; border: 0"src="Images/COVER PIC 2.png?sanitize=true" width="200" height="80">
@@ -139,6 +139,14 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 </a>
   </div>
 </div>
+
+### 🛎️ Services I Provide
+<ul>
+  <li>Web application developenet</li>
+  <li>Mobile application development</li>
+  <li>IOT services</li>
+  <li>QA services</li>
+</ul>  
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=minijamigara&amp;show_icons=true&amp;theme=material-palenight&amp;card_width=100px" alt="Anurag&#39;s GitHub stats"></p>
 
