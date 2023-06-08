@@ -142,7 +142,7 @@ Android, jQuery, C#, Arduino and Java, but I’m always adding new skills to my 
 
 ### 🛎️ Services I Provide
 <ul>
-  <li>Web application developenet</li>
+  <li>Web application development</li>
   <li>Mobile application development</li>
   <li>IOT services</li>
   <li>QA services</li>
