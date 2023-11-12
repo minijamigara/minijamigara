@@ -2,7 +2,7 @@
       <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"> I'm Minija Migara</h1> 
 </div>
 <div>
-I am a Software application developer & Software tester, from Sri Lanka. I’ve always been a  </br>
+I am a Software application developer & a Software tester, from Sri Lanka. I’ve always been a  </br>
 great problem solver, an independent introvert, and a technophile obsessed with the latest technologies.</br>
 I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Xamarin,</br> 
 Android, jQuery, C#, Arduino, and Java, but I’m always adding new skills to my repertoire.
