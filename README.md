@@ -78,7 +78,7 @@ Android, jQuery, C#, Arduino, and Java, but I’m always adding new skills to my
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <th>Hybrid Battery Health Diagnostic System</th>
-    <th>Automated Gardning System</th>
+    <th>Automated Gardening System</th>
     <th>Smart Timer Controller</th>
   </tr>
   <tr>
